@@ -46,6 +46,11 @@
   width: var(--max-width);
 }
 
+#inputBusqueda {
+  display: flex;
+  margin-left: 2%;
+  
+}
 .card {
   padding: 1rem 1.2rem;
   border-radius: var(--border-radius);
